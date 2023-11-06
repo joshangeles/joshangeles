@@ -1,3 +1,4 @@
+<img  src="https://sithcomputers.com/wp-content/uploads/2021/05/Scratch.gif"/> 
 ## About Me
 
 Hello there! 👋 I'm Josh, a software engineer based in Southern California with a passion for creating visually appealing and user-friendly websites and web applications. I formerly worked as a back-end Unity developer, but made the swap to front-end and am loving the learning experience so far! I find joy in music and art, and front-end development so far has allowed me to be more creative than ever.
